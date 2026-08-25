@@ -1,0 +1,6 @@
+{
+  "name": "MIG",
+  "description": "MIG - Adaptive engineering mentorship platform featuring real-time self-awareness diagnostics, verifiable milestone tracking, mentor feedback hub, and AI-powered growth strategies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
